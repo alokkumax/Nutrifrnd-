@@ -9,6 +9,9 @@ also,
   4. Adding Assets (Images, Fonts)
   5. UI UX (ideas)
   
+  ![screenshot-2020-07-08_15 30 47 956](https://user-images.githubusercontent.com/59159355/86906130-b6577f80-c130-11ea-87c4-d7212067e59a.png)
+
+  
 # First App On GitHub
 
   Hope y'll like it!
