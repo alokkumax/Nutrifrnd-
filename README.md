@@ -20,6 +20,10 @@ also,
 # First App On GitHub
 to know more about our nutrifrnd, you can visit our website
 www.organicod3rs.com
+Our Team for this entire project.
+Twitter//@organicod3rs
+
+
 
   Hope y'll like it!
   contact- alokkumax1@gmail.com
