@@ -176,6 +176,8 @@ class MyWidget extends StatelessWidget {
                     width: 32,
                   ),
                   Expanded(
+                    //this the most ModernInspired UI 
+                    //why you shud use expanded Widget.
                     child: Container(
                       margin: const EdgeInsets.only(bottom: 10, left: 32, right: 32,),
                       decoration: BoxDecoration(
